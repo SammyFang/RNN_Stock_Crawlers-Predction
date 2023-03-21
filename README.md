@@ -3,12 +3,14 @@ A very sample(also weak)demo for stock price preditction.
 Craw from web,and use RNN to preditc.
 ### Dev： Sammy Fang at NTNU, 2023
 ## Linerary：
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.preprocessing import MinMaxScaler
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, SimpleRNN, Dropout
+```
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt 
+from sklearn.preprocessing import MinMaxScaler 
+from tensorflow.keras.models import Sequential 
+from tensorflow.keras.layers import Dense, SimpleRNN, Dropout 
+```
 ## API：
 https://www.alphavantage.co/
 ## Demo：
