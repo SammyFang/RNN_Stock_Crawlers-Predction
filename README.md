@@ -1,5 +1,6 @@
-# RNN_Stock_Predction
+# RNN_Stock_Crew & Predction
 A very sample(also weak)demo for stock price preditction.
+Crew from web,and use RNN to preditc.
 ### Dev： Sammy Fang at NTNU, 2023
 ## Linerary：
 import pandas as pd
